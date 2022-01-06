@@ -1,0 +1,8 @@
+server:
+  port: 8002 #端口
+  servlet:
+    context-path: /springSecurity #配置项目名称
+spring:
+  messages:
+    basename: messages/exception
+    encoding: UTF-8
